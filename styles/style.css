@@ -1,1 +1,10 @@
-
+.big {
+    color: rgba(21, 192, 141, 0.541);
+    font-style: italic;
+    font-weight: 900;
+    font-family: cursive;
+}
+.img{
+    margin: auto;
+    width: 66%;
+}
