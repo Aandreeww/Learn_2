@@ -14,3 +14,33 @@ a{
     font-weight: 900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.tabl{
+    color: rgb(218, 221, 29);
+    font-style: italic;
+    font-weight: 900;
+    font-family: cursive;
+}
+b{
+    color: rgb(255, 115, 0);
+    font-style: oblique;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+i{
+    color: rgb(81, 255, 0);
+    font-style: oblique;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+em{
+    color: rgb(0, 204, 255);
+    font-style: oblique;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+strong{
+    color: rgb(0, 255, 13);
+    font-style: inherit;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
