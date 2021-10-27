@@ -1,10 +1,16 @@
 .big {
-    color: rgba(21, 192, 141, 0.541);
-    font-style: italic;
+    color: rgb(218, 221, 29);
+    font-style: oblique;
     font-weight: 900;
-    font-family: cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .img{
-    margin: auto;
+    margin: 15%;
     width: 66%;
+}
+a{
+    color: rgb(147, 212, 24);
+    font-style: oblique;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
