@@ -1,0 +1,25 @@
+header {
+    display: grid;
+    column-gap: 10px;
+    row-gap: 10px;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    grid-template-rows: 270px 120px 200px 270px;
+}
+
+div.first {
+    background-color: cadetblue;
+    grid-column: 1/3;
+    grid-row: 1/2;
+}
+
+div.second {
+    background-color: cadetblue;
+    grid-column: 4/6;
+    grid-row: 2/2;
+}
+
+div.third {
+    background-color: cadetblue;
+    grid-column: 1/3;
+    grid-row: 4/5;
+}
