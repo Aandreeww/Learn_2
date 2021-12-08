@@ -20,4 +20,5 @@ let image = document.createElement('IMG')
 image.src = "../images/js.png";
 image.style.width = '200px'
 image.style.height = '200px'
+image.style.float = 'left'
 document.querySelector('main').insertBefore(image, text)
